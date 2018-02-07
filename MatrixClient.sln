@@ -5,11 +5,7 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MatrixLib", "MatrixLib\MatrixLib.vcxproj", "{06F0428F-E491-4353-832E-AAB81922B01C}"
 EndProject
-<<<<<<< HEAD
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrixClient", "matrixClient\matrixClient.vcxproj", "{844F9396-BBAE-4D65-BF09-62EC95EC1289}"
-=======
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MatrixClient", "MatrixClient\MatrixClient.vcxproj", "{591BAC9B-1845-40C8-AB12-C1E8C52BB7B7}"
->>>>>>> 32aa1afda7e7403001f1896df804701641b134e2
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,17 +17,10 @@ Global
 		{06F0428F-E491-4353-832E-AAB81922B01C}.Debug|Win32.Build.0 = Debug|Win32
 		{06F0428F-E491-4353-832E-AAB81922B01C}.Release|Win32.ActiveCfg = Release|Win32
 		{06F0428F-E491-4353-832E-AAB81922B01C}.Release|Win32.Build.0 = Release|Win32
-<<<<<<< HEAD
 		{844F9396-BBAE-4D65-BF09-62EC95EC1289}.Debug|Win32.ActiveCfg = Debug|Win32
 		{844F9396-BBAE-4D65-BF09-62EC95EC1289}.Debug|Win32.Build.0 = Debug|Win32
 		{844F9396-BBAE-4D65-BF09-62EC95EC1289}.Release|Win32.ActiveCfg = Release|Win32
 		{844F9396-BBAE-4D65-BF09-62EC95EC1289}.Release|Win32.Build.0 = Release|Win32
-=======
-		{591BAC9B-1845-40C8-AB12-C1E8C52BB7B7}.Debug|Win32.ActiveCfg = Debug|Win32
-		{591BAC9B-1845-40C8-AB12-C1E8C52BB7B7}.Debug|Win32.Build.0 = Debug|Win32
-		{591BAC9B-1845-40C8-AB12-C1E8C52BB7B7}.Release|Win32.ActiveCfg = Release|Win32
-		{591BAC9B-1845-40C8-AB12-C1E8C52BB7B7}.Release|Win32.Build.0 = Release|Win32
->>>>>>> 32aa1afda7e7403001f1896df804701641b134e2
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

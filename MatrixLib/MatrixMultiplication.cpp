@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-#include"stdafx.h"
-=======
 #include <iostream>
+#include "MatrixLib.h"
 #include "stdafx.h"
 
 using namespace std;
@@ -28,6 +26,3 @@ int multiplyMatrix(int** A, int** B, int** Result, int colA, int colB, int rowA,
 		return -1;
 	}
 }
-
-
->>>>>>> 32aa1afda7e7403001f1896df804701641b134e2
