@@ -6,8 +6,8 @@ using namespace System;
 
 namespace MatrixLib {
 
-	public ref class Class1
+	public ref class Matrix
 	{
-		// TODO: Add your methods for this class here.
+		
 	};
 }
