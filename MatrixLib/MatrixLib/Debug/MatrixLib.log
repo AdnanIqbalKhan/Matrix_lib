@@ -1,0 +1,25 @@
+﻿Build started 09-Feb-18 10:10:17 PM.
+     1>Project "E:\ADNAN\BESE-6B\Sem-6\Project\SC\Lab\Lab1\Matrix_lib\MatrixLib\MatrixLib\MatrixLib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MATRIXLIB_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MatrixAddSub.cpp MatrixLib.cpp MatrixMultiplication.cpp
+         MatrixMultiplication.cpp
+     1>e:\adnan\bese-6b\sem-6\project\sc\lab\lab1\matrix_lib\matrixlib\matrixlib\matrixmultiplication.cpp(4): warning C4273: 'multiplyMatrix': inconsistent dll linkage
+         e:\adnan\bese-6b\sem-6\project\sc\lab\lab1\matrix_lib\matrixlib\matrixlib\matrixlib.h(14): note: see previous definition of 'multiplyMatrix'
+         MatrixLib.cpp
+         MatrixAddSub.cpp
+     1>e:\adnan\bese-6b\sem-6\project\sc\lab\lab1\matrix_lib\matrixlib\matrixlib\matrixaddsub.cpp(4): warning C4273: 'AddMatrix': inconsistent dll linkage
+         e:\adnan\bese-6b\sem-6\project\sc\lab\lab1\matrix_lib\matrixlib\matrixlib\matrixlib.h(12): note: see previous definition of 'AddMatrix'
+     1>e:\adnan\bese-6b\sem-6\project\sc\lab\lab1\matrix_lib\matrixlib\matrixlib\matrixaddsub.cpp(34): warning C4273: 'SubtractMatrix': inconsistent dll linkage
+         e:\adnan\bese-6b\sem-6\project\sc\lab\lab1\matrix_lib\matrixlib\matrixlib\matrixlib.h(13): note: see previous definition of 'SubtractMatrix'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ADNAN\BESE-6B\Sem-6\Project\SC\Lab\Lab1\Matrix_lib\MatrixLib\Debug\MatrixLib.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\ADNAN\BESE-6B\Sem-6\Project\SC\Lab\Lab1\Matrix_lib\MatrixLib\Debug\MatrixLib.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ADNAN\BESE-6B\Sem-6\Project\SC\Lab\Lab1\Matrix_lib\MatrixLib\Debug\MatrixLib.lib" /MACHINE:X86 /DLL Debug\MatrixAddSub.obj
+         Debug\MatrixLib.obj
+         Debug\MatrixMultiplication.obj
+            Creating library E:\ADNAN\BESE-6B\Sem-6\Project\SC\Lab\Lab1\Matrix_lib\MatrixLib\Debug\MatrixLib.lib and object E:\ADNAN\BESE-6B\Sem-6\Project\SC\Lab\Lab1\Matrix_lib\MatrixLib\Debug\MatrixLib.exp
+         MatrixLib.vcxproj -> E:\ADNAN\BESE-6B\Sem-6\Project\SC\Lab\Lab1\Matrix_lib\MatrixLib\Debug\MatrixLib.dll
+     1>Done Building Project "E:\ADNAN\BESE-6B\Sem-6\Project\SC\Lab\Lab1\Matrix_lib\MatrixLib\MatrixLib\MatrixLib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.81
