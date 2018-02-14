@@ -149,6 +149,7 @@
     <ClCompile Include="MatrixAddSub.cpp" />
     <ClCompile Include="MatrixLib.cpp" />
     <ClCompile Include="MatrixMultiplication.cpp" />
+    <ClCompile Include="MatrixTranspose.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MatrixLib.h" />

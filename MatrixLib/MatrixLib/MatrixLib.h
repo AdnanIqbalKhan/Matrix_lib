@@ -13,3 +13,4 @@ MATHLIB_API int AddMatrix(std::vector<std::vector<int>> &A, std::vector<std::vec
 MATHLIB_API int SubtractMatrix(std::vector<std::vector<int>> &A, std::vector<std::vector<int>> &B, std::vector<std::vector<int>> &C);
 MATHLIB_API int multiplyMatrix(std::vector<std::vector<int>> &A, std::vector<std::vector<int>> &B, std::vector<std::vector<int>> &C);
 
+MATHLIB_API int TransposeMatrix(std::vector<std::vector<int>> &A, std::vector<std::vector<int>> &C);

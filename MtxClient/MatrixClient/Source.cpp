@@ -37,4 +37,8 @@ int main() {
 	f = multiplyMatrix(A, B, C);
 	cout << endl << "A * B" << endl;
 	print(C);
+
+	f = TransposeMatrix(A, C);
+	cout << endl << "A'" << endl;
+	print(C);
 }
